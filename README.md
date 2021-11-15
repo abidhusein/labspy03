@@ -38,7 +38,7 @@ print ("Selesai")
 
 Program Sederhana Menentukan Bilangan Terbesar, dari Data N yang diinputka
 
-![img 1](screenshot/1/png)
+![img 1](screenshot/1.png)
 
 Penjelasan :
 
